@@ -1,5 +1,4 @@
-# Churn Prediction System
-Customer Churn prediction system
+
 # Customer Churn Prediction System
 
 This project was completed as part of **Task 2** of the Machine Learning Internship at **Future Interns**.
