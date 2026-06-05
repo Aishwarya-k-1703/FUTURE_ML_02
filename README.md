@@ -1,4 +1,4 @@
-# FUTURE_ML_02
+# Churn Prediction System
 Customer Churn prediction system
 # Customer Churn Prediction System
 
